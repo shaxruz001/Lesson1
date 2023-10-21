@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(15, 9, 124);
+}
+
+.a{
+    background-color: aliceblue;
+    color: rgb(red, green, blue);
+    border-radius: 5px;
+    border: 50px;
+    border-width: 0cap;
+
+}
+
+.b{
+color: rgb(red, green, blue);
+}
